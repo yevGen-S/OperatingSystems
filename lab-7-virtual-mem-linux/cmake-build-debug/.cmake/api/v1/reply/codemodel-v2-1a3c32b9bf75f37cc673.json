@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab_7_virtual_mem_linux",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_7_virtual_mem_linux::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_7_virtual_mem_linux-Debug-cf1b023701f33b93cd79.json",
+					"name" : "lab_7_virtual_mem_linux",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/evgenii/hardrive/home/yevs/Work_Study/Polytech/FIIT/OS/lab-7-virtual-mem-linux/cmake-build-debug",
+		"source" : "/home/evgenii/hardrive/home/yevs/Work_Study/Polytech/FIIT/OS/lab-7-virtual-mem-linux"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

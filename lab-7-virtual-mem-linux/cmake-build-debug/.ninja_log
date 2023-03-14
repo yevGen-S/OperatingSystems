@@ -1,0 +1,8 @@
+# ninja log v5
+0	31	1668774790379046750	build.ninja	13b4a9b02e1245d9
+0	41	1668769133734656990	CMakeFiles/lab_7_virtual_mem_linux.dir/client.c.o	8e0511b28bc41d2d
+1	35	1668773847349526187	CMakeFiles/lab_7_virtual_mem_linux.dir/main.c.o	114d4fd3073bb570
+0	62	1668773793735782419	CMakeFiles/lab_7_virtual_mem_linux.dir/server.c.o	e2ff01cb153dc006
+35	66	1668773847381525409	lab_7_virtual_mem_linux	e6dcf961a25d3ef4
+0	39	1668774793859199164	CMakeFiles/lab_7_virtual_mem_linux.dir/main.c.o	114d4fd3073bb570
+39	83	1668774793903201092	lab_7_virtual_mem_linux	e6dcf961a25d3ef4

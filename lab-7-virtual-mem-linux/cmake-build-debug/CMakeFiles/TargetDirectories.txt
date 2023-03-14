@@ -1,0 +1,3 @@
+/home/evgenii/hardrive/home/yevs/Work_Study/Polytech/FIIT/OS/lab-7-virtual-mem-linux/cmake-build-debug/CMakeFiles/lab_7_virtual_mem_linux.dir
+/home/evgenii/hardrive/home/yevs/Work_Study/Polytech/FIIT/OS/lab-7-virtual-mem-linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/evgenii/hardrive/home/yevs/Work_Study/Polytech/FIIT/OS/lab-7-virtual-mem-linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
